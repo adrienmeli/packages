@@ -1,0 +1,1 @@
+http:www.r-bloggers.com:80:.:^firstPartyDomain=r-bloggers.com:.	0	18593	http:www.r-bloggers.com:80:www.r-bloggers.com:443::n:1606493660:h2:y:1606463281:n:^firstPartyDomain=r-bloggers.com:http://www.r-bloggers.com|n:n:
