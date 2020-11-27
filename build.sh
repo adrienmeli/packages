@@ -1,6 +1,6 @@
 #! /bin/bash
 
-pacman -Q > list-of-arch-packages.txt
+pacman -Q | awk '{print $1}' > list-of-arch-packages.txt
 
 Rscript list-packages.R
 
